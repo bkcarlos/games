@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\code\czbk\c++\2048\2048\</FILEPATH>
+      <FILENAME>play.cpp</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>6336</DEFECTCODE>
+    <DESCRIPTION>算术运算符的优先级高于问号运算符，请使用括号明确指定优先级。</DESCRIPTION>
+    <FUNCTION>play</FUNCTION>
+    <DECORATED>?play@@YAXXZ</DECORATED>
+    <FUNCLINE>48</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\code\czbk\c++\2048\2048\</FILEPATH>
+      <FILENAME>play.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>6336</DEFECTCODE>
+    <DESCRIPTION>算术运算符的优先级高于问号运算符，请使用括号明确指定优先级。</DESCRIPTION>
+    <FUNCTION>play</FUNCTION>
+    <DECORATED>?play@@YAXXZ</DECORATED>
+    <FUNCLINE>48</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

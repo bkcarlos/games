@@ -1,0 +1,6 @@
+﻿  snack.cpp
+  play.cpp
+  正在生成代码...
+play.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  贪吃蛇.vcxproj -> D:\code\czbk\c++\贪吃蛇\Debug\贪吃蛇.exe
+  贪吃蛇.vcxproj -> D:\code\czbk\c++\贪吃蛇\Debug\贪吃蛇.pdb (Partial PDB)
